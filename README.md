@@ -7,11 +7,13 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
