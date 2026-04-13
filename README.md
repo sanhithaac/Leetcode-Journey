@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
@@ -67,6 +68,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0006-zigzag-conversion](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
