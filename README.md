@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0238-product-of-array-except-self](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,16 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0014-longest-common-prefix/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
