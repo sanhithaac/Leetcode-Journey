@@ -33,6 +33,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0041-first-missing-positive](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0014-longest-common-prefix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
