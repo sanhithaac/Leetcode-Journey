@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0283-move-zeroes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +59,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0189-rotate-array/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
