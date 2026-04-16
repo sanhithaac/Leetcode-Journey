@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
@@ -27,6 +28,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0189-rotate-array/) | Medium |
@@ -54,6 +56,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
