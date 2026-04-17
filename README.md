@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0205-isomorphic-strings](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0525-contiguous-array/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
@@ -128,6 +129,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0151-reverse-words-in-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0567-permutation-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
@@ -157,6 +159,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
