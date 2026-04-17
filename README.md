@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0219-contains-duplicate-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
