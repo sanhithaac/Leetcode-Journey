@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0560-subarray-sum-equals-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Two Pointers
@@ -54,6 +55,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Divide and Conquer
@@ -94,6 +96,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
