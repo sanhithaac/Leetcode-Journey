@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0643-maximum-average-subarray-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -76,6 +77,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +182,12 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
