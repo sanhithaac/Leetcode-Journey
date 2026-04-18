@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0041-first-missing-positive](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0054-spiral-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -194,4 +195,12 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
