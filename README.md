@@ -61,6 +61,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0041-first-missing-positive](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -161,6 +162,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 ## Design
 | Problem Name | Difficulty |
