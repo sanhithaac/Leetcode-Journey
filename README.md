@@ -166,6 +166,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0024-swap-nodes-in-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0086-partition-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0206-reverse-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 ## Design
@@ -220,6 +221,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
