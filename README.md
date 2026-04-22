@@ -142,6 +142,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 ## String
@@ -155,6 +156,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0125-valid-palindrome](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
@@ -241,6 +243,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0020-valid-parentheses](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -250,4 +253,8 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
