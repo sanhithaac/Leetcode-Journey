@@ -165,6 +165,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0054-spiral-matrix/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0234-palindrome-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
