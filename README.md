@@ -127,6 +127,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0202-happy-number/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -158,6 +159,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0125-valid-palindrome](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -247,6 +249,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0020-valid-parentheses](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0155-min-stack/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
