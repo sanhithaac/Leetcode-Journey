@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0560-subarray-sum-equals-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
+| [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -255,6 +256,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0234-palindrome-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Depth-First Search
@@ -270,4 +272,5 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
