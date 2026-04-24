@@ -196,6 +196,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0155-min-stack](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0155-min-stack/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
+| [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +258,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Depth-First Search
@@ -273,4 +275,9 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
