@@ -198,6 +198,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0535-encode-and-decode-tinyurl](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 | [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +229,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +286,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
