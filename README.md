@@ -81,6 +81,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0219-contains-duplicate-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0525-contiguous-array/) | Medium |
@@ -107,6 +108,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0049-group-anagrams](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -115,6 +117,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -171,6 +174,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0567-permutation-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
@@ -222,6 +226,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Binary Search
@@ -304,4 +309,8 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
