@@ -102,6 +102,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0053-maximum-subarray/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Sorting
@@ -203,6 +204,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0021-merge-two-sorted-lists](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0086-partition-list/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0206-reverse-linked-list/) | Easy |
@@ -335,4 +337,16 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0164-maximum-gap/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
