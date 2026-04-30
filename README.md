@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0525-contiguous-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 | [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
@@ -106,6 +107,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -300,6 +302,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0394-decode-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0394-decode-string/) | Medium |
 | [0456-132-pattern](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -318,6 +321,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0456-132-pattern](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
@@ -345,6 +349,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,4 +358,5 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
