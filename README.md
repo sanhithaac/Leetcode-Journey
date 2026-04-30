@@ -180,6 +180,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0227-basic-calculator-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
+| [0394-decode-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
@@ -281,6 +282,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0050-powx-n](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0394-decode-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +292,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0227-basic-calculator-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0394-decode-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0394-decode-string/) | Medium |
 | [0456-132-pattern](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
