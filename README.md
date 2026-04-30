@@ -141,6 +141,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0202-happy-number/) | Easy |
@@ -277,6 +278,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0050-powx-n](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
