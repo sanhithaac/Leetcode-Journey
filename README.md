@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0162-find-peak-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
@@ -260,6 +261,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0456-132-pattern](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0456-132-pattern/) | Medium |
 | [0493-reverse-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0493-reverse-pairs/) | Hard |
