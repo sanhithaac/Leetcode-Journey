@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0048-rotate-image/) | Medium |
@@ -401,6 +402,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
