@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0054-spiral-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -401,4 +402,9 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
