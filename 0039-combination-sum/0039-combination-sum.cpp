@@ -13,10 +13,9 @@ public:
         for (int i = start; i < candidates.size(); i++) {
             curr.push_back(candidates[i]);
 
-            // i (not i+1) because same number can be reused
             backtrack(candidates, target - candidates[i], i, curr, res);
 
-            curr.pop_back(); // backtrack
+            curr.pop_back();
         }
     }
 
