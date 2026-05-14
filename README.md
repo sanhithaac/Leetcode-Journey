@@ -153,6 +153,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0053-maximum-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -196,6 +197,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0022-generate-parentheses](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -405,6 +407,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0039-combination-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0078-subsets/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
