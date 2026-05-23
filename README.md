@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0074-search-a-2d-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -114,6 +115,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0053-maximum-subarray/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
@@ -384,6 +386,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0100-same-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -393,6 +396,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -400,6 +404,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0100-same-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
