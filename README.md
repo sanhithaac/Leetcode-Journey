@@ -278,6 +278,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0456-132-pattern](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0456-132-pattern/) | Medium |
 | [0493-reverse-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0493-reverse-pairs/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -390,6 +391,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -408,6 +410,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Merge Sort
@@ -436,6 +439,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0078-subsets/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
