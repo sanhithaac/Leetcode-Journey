@@ -200,6 +200,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0151-reverse-words-in-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0394-decode-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0394-decode-string/) | Medium |
@@ -341,6 +342,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0101-symmetric-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0101-symmetric-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -385,6 +387,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -400,6 +403,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -422,6 +426,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0046-permutations](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
