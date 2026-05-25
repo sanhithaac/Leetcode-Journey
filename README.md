@@ -353,6 +353,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0437-path-sum-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0437-path-sum-iii/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -405,12 +406,14 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0437-path-sum-iii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,6 +430,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0437-path-sum-iii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -463,4 +467,5 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 <!---LeetCode Topics End-->
