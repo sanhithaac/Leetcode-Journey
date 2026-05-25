@@ -351,6 +351,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0101-symmetric-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0101-symmetric-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0437-path-sum-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0437-path-sum-iii/) | Medium |
@@ -405,6 +406,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0437-path-sum-iii/) | Medium |
@@ -418,6 +420,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0098-validate-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
@@ -434,6 +437,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0437-path-sum-iii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
