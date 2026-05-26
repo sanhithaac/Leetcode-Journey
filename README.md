@@ -370,6 +370,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0543-diameter-of-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Doubly-Linked List
@@ -433,6 +434,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0652-find-duplicate-subtrees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Binary Search Tree
@@ -471,6 +473,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0652-find-duplicate-subtrees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Merge Sort
