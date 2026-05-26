@@ -330,6 +330,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -352,6 +353,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0100-same-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0101-symmetric-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
@@ -406,6 +408,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -439,6 +442,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
