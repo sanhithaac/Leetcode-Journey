@@ -116,6 +116,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -258,6 +259,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0731-my-calendar-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0731-my-calendar-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +283,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +400,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +408,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0493-reverse-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0493-reverse-pairs/) | Hard |
 | [0731-my-calendar-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0731-my-calendar-ii/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
