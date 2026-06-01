@@ -1,77 +1,60 @@
+class TrieNode {
+public:
+    TrieNode* child[26];
+    bool end;
+
+    TrieNode() {
+        end = false;
+        for(int i = 0; i < 26; i++) {
+            child[i] = NULL;
+        }
+    }
+};
+
 class WordDictionary {
 public:
-
-    struct Node {
-        Node* links[26];
-        bool flag = false;
-
-        bool containsKey(char ch) {
-            return links[ch - 'a'] != NULL;
-        }
-
-        void put(char ch, Node* node) {
-            links[ch - 'a'] = node;
-        }
-
-        Node* get(char ch) {
-            return links[ch - 'a'];
-        }
-
-        void setEnd() {
-            flag = true;
-        }
-
-        bool isEnd() {
-            return flag;
-        }
-    };
-
-    Node* root;
+    TrieNode* root;
 
     WordDictionary() {
-        root = new Node();
+        root = new TrieNode();
     }
-    
+
     void addWord(string word) {
-        Node* node = root;
+        TrieNode* node = root;
 
-        for(char ch : word) {
-            if(!node->containsKey(ch)) {
-                node->put(ch, new Node());
+        for(char c : word) {
+            int idx = c - 'a';
+
+            if(node->child[idx] == NULL) {
+                node->child[idx] = new TrieNode();
             }
-            node = node->get(ch);
+
+            node = node->child[idx];
         }
 
-        node->setEnd();
+        node->end = true;
     }
 
-    bool solve(string word, int index, Node* node) {
-        
-        if(index == word.size()) {
-            return node->isEnd();
+    bool dfs(string& word, int pos, TrieNode* node) {
+        if(node == NULL) return false;
+
+        if(pos == word.size()) {
+            return node->end;
         }
 
-        if(word[index] == '.') {
-
+        if(word[pos] == '.') {
             for(int i = 0; i < 26; i++) {
-                if(node->links[i] != NULL) {
-                    if(solve(word, index + 1, node->links[i])) {
-                        return true;
-                    }
+                if(dfs(word, pos + 1, node->child[i])) {
+                    return true;
                 }
             }
-
             return false;
         }
 
-        if(!node->containsKey(word[index])) {
-            return false;
-        }
-
-        return solve(word, index + 1, node->get(word[index]));
+        return dfs(word, pos + 1, node->child[word[pos] - 'a']);
     }
-    
+
     bool search(string word) {
-        return solve(word, 0, root);
+        return dfs(word, 0, root);
     }
 };
