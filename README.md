@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1004-max-consecutive-ones-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -145,6 +146,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +228,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -234,6 +237,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0211-design-add-and-search-words-data-structure](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +289,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Binary Search
@@ -303,6 +308,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
