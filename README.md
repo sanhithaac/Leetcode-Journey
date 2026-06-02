@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -205,6 +206,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
+| [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +301,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
