@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -153,6 +154,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +304,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
