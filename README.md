@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0238-product-of-array-except-self](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
 | [0456-132-pattern](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0456-132-pattern/) | Medium |
@@ -104,6 +105,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0202-happy-number](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -135,6 +137,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
 | [0493-reverse-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0493-reverse-pairs/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -148,6 +151,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0148-sort-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0720-longest-word-in-dictionary/) | Medium |
@@ -160,6 +164,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -300,6 +305,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -442,6 +448,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0164-maximum-gap/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Radix Sort
@@ -566,4 +573,8 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
