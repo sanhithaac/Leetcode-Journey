@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0875-koko-eating-bananas](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1014-best-sightseeing-pair/) | Medium |
@@ -142,6 +143,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0493-reverse-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0493-reverse-pairs/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Counting
@@ -194,6 +197,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0202-happy-number](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0202-happy-number/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Prefix Sum
@@ -310,6 +314,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
@@ -577,4 +582,9 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
