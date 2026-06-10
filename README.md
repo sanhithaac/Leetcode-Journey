@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0456-132-pattern](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0456-132-pattern/) | Medium |
 | [0493-reverse-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0496-next-greater-element-i/) | Easy |
@@ -154,6 +155,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0164-maximum-gap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0720-longest-word-in-dictionary/) | Medium |
@@ -184,6 +186,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1014-best-sightseeing-pair/) | Medium |
@@ -217,6 +220,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 ## String
