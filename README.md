@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1014-best-sightseeing-pair](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
@@ -164,6 +165,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0950-reveal-cards-in-increasing-order](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -222,6 +224,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -320,6 +323,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1834-single-threaded-cpu/) | Medium |
