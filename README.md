@@ -135,6 +135,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -272,6 +273,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -317,6 +319,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -547,6 +550,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0493-reverse-pairs/) | Hard |
 ## Binary Indexed Tree
