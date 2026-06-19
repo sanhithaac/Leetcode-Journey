@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1472-design-browser-history](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1472-design-browser-history/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -287,6 +288,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +301,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0731-my-calendar-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0731-my-calendar-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1472-design-browser-history](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1472-design-browser-history/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -408,6 +411,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1472-design-browser-history](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1472-design-browser-history/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -438,6 +442,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1472-design-browser-history/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +458,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1472-design-browser-history](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1472-design-browser-history/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
