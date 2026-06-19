@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1004-max-consecutive-ones-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1146-snapshot-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1146-snapshot-array/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -129,6 +130,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1146-snapshot-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1146-snapshot-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
@@ -301,6 +303,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0731-my-calendar-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0731-my-calendar-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1146-snapshot-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1146-snapshot-array/) | Medium |
 | [1472-design-browser-history](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1472-design-browser-history/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Hash Function
@@ -353,6 +356,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1146-snapshot-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1146-snapshot-array/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
