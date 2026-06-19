@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -113,6 +114,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0219-contains-duplicate-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0355-design-twitter/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -207,6 +209,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0189-rotate-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0202-happy-number/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -300,6 +303,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0173-binary-search-tree-iterator](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0355-design-twitter](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0355-design-twitter/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
@@ -615,4 +619,8 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
