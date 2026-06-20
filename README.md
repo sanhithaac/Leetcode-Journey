@@ -78,6 +78,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1882-process-tasks-using-servers](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -265,6 +267,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -313,6 +316,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1146-snapshot-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1146-snapshot-array/) | Medium |
 | [1472-design-browser-history](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1472-design-browser-history/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2353-design-a-food-rating-system/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +352,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [1834-single-threaded-cpu](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2353-design-a-food-rating-system/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,6 +485,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0731-my-calendar-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0731-my-calendar-ii/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2034-stock-price-fluctuation/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2353-design-a-food-rating-system/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
