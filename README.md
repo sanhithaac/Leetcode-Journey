@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0041-first-missing-positive/) | Hard |
+| [0045-jump-game-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
@@ -192,6 +193,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0022-generate-parentheses/) | Medium |
+| [0045-jump-game-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -230,6 +232,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0045-jump-game-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
