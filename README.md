@@ -53,6 +53,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0523-continuous-subarray-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -128,6 +129,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0535-encode-and-decode-tinyurl](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
@@ -170,6 +172,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
@@ -186,6 +189,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0347-top-k-frequent-elements](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -239,6 +243,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0621-task-scheduler](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
@@ -348,6 +353,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0355-design-twitter](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0355-design-twitter/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
