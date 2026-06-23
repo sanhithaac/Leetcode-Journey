@@ -238,6 +238,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 ## String
@@ -267,6 +268,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0720-longest-word-in-dictionary](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
@@ -430,6 +432,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0901-online-stock-span/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1472-design-browser-history](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1472-design-browser-history/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
