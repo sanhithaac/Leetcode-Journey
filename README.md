@@ -62,6 +62,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0731-my-calendar-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0731-my-calendar-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -177,6 +178,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0720-longest-word-in-dictionary](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
@@ -245,6 +247,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0435-non-overlapping-intervals](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1642-furthest-building-you-can-reach/) | Medium |
@@ -357,6 +360,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1268-search-suggestions-system/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
