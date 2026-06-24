@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0135-candy/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -242,6 +243,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0045-jump-game-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0045-jump-game-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
