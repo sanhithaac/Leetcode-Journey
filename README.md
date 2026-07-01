@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0283-move-zeroes/) | Easy |
@@ -410,6 +411,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0054-spiral-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -462,6 +464,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -629,6 +632,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -649,4 +653,8 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
