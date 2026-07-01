@@ -478,6 +478,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0979-distribute-coins-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -552,6 +553,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0979-distribute-coins-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -636,6 +638,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0226-invert-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1376-time-needed-to-inform-all-employees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
