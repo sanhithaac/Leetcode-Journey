@@ -475,6 +475,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0543-diameter-of-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -620,6 +621,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0078-subsets](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -638,6 +640,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0226-invert-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
@@ -660,4 +663,8 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
