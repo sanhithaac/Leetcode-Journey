@@ -58,6 +58,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0621-task-scheduler](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0690-employee-importance](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0720-longest-word-in-dictionary/) | Medium |
@@ -134,6 +135,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0567-permutation-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0690-employee-importance](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0720-longest-word-in-dictionary/) | Medium |
@@ -475,6 +477,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0652-find-duplicate-subtrees/) | Medium |
+| [0690-employee-importance](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0690-employee-importance/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -552,6 +555,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0543-diameter-of-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0690-employee-importance](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0690-employee-importance/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -644,6 +648,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0690-employee-importance](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0690-employee-importance/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
