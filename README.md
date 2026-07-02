@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0135-candy/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -414,6 +415,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0054-spiral-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0427-construct-quad-tree/) | Medium |
 ## Simulation
@@ -465,6 +467,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
@@ -644,6 +647,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0101-symmetric-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0226-invert-binary-tree/) | Easy |
@@ -674,6 +678,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
