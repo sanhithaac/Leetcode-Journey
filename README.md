@@ -475,6 +475,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0543-diameter-of-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -640,6 +641,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0226-invert-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Iterator
@@ -663,8 +665,10 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
