@@ -139,6 +139,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0720-longest-word-in-dictionary](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1146-snapshot-array](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1146-snapshot-array/) | Medium |
@@ -477,6 +478,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -552,6 +554,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -595,6 +598,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0654-maximum-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -643,6 +647,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sanhithaac/Leetcode-Journey/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
