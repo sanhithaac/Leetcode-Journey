@@ -67,6 +67,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0720-longest-word-in-dictionary](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0731-my-calendar-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
+| [0752-open-the-lock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0752-open-the-lock/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -142,6 +143,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0706-design-hashmap](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0706-design-hashmap/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0752-open-the-lock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -286,6 +288,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0567-permutation-in-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0752-open-the-lock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -661,6 +664,7 @@ This repository contains my solutions to LeetCode problems that I solve regularl
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0542-01-matrix](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0542-01-matrix/) | Medium |
 | [0690-employee-importance](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0690-employee-importance/) | Medium |
+| [0752-open-the-lock](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0752-open-the-lock/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sanhithaac/Leetcode-Journey/tree/main/0797-all-paths-from-source-to-target/) | Medium |
